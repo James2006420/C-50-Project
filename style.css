@@ -1,0 +1,25 @@
+*{
+    background-color: gray;
+}
+
+.header{
+    background-color: white
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid img{
+    border: solid black;
+    border-radius: 50px;
+}
+
+p{
+    font-style: italic;
+}
+
+.origami img{
+    border-radius: 50px;
+}
